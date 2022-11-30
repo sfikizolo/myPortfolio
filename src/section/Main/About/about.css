@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 1.3fr .3fr 3fr .3fr 4fr;
     grid-template-rows: 1fr 1fr 1fr;
-    background: rgba(255, 255, 255, .8);
+    background: rgba(255, 255, 255, 0.8);
     border: 2px solid var(--theme-color);
     }/* positioning reason */
     .reason {

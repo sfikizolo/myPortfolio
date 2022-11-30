@@ -1,5 +1,5 @@
 import React from 'react'
-import './ContactSection.css'
+import './contactInfo.css'
 //sweeett
 function ContactInfo() {
   return (
