@@ -1,8 +1,10 @@
 ul li {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(94, 3, 3, 0.6);
     transition: .1s;
     font-size: 20px;
-    }ul li:hover {
+}
+
+ul li:hover {
     color: var(--theme-color);
     font-size: 20px;
-    }
+}

@@ -1,26 +1,43 @@
-.landing-Page  .content-container {
-    margin-left: 20%;
-    }/* all element with class name theme-color will have the below color */
-    .theme-color {
+.landing-section  .content-container {
+    margin-left: 20%; 
+}
+
+/* all element with class name theme-color will have the below color */
+.theme-color {
     color: var(--theme-color);
-    }/* all element with class name theme-color will have the below background color */
-    .theme-bg-color {
+}
+
+/* all element with class name theme-color will have the below background color */
+.theme-bg-color {
     background: var(--theme-color);
-    }/* all element with class name theme-color will have the below background color */
-    .theme-border-color {
+}
+
+/* all element with class name theme-color will have the below background color */
+.theme-border-color {
     border: 2px solid var(--theme-color);
-    }.small {
-    font-size: 25px;}.name {
+}
+
+.small {
+    font-size: 25px;
+
+}
+
+.name {
     font-size: 90px;
     font-weight: 300;
-    }.download-btn {
+}
+
+.download-btn {
     width: 200px;
     height: 40px;
     border: none;
-    }.contact-btn {
+}
+
+.contact-btn {
     width: 200px;
     height: 40px;
-    background: none;
+    background:  rgba(196, 59, 59, 0.6);
     color: var(--theme-color);
-    }
+}
+
     
