@@ -9,25 +9,19 @@ function ContactInfo() {
                   {/* name */}
                   <div class="mb-3">
                       <label for="name" class="form-label">Name</label>
-                      <input type="email" class="form-control px-3" id="name" placeholder="eg.  John"></input>
+                      <input type="text" class="form-control px-3" ></input>
                   </div>
   
                   {/* surname */}
                   <div class="mb-3">
                       <label for="name" class="form-label">Surname</label>
-                      <input type="email" class="form-control px-3" id="name" placeholder="eg.   Smith"></input>
+                      <input type="text" class="form-control px-3"></input>
                   </div>
   
                   {/* email */}
                   <div class="mb-3">
                       <label for="name" class="form-label">Email</label>
-                      <input type="email" class="form-control px-3" id="name" placeholder="eg.   johnsmith123@gmail.com"></input>
-                  </div>
-  
-                  {/* message */}
-                  <div class="mb-3">
-                      <label for="message" class="form-label">Message</label>
-                      <textarea class="form-control px-3" id="message" placeholder="send me a message"></textarea>
+                      <input type="email" class="form-control px-3"></input>
                   </div>
   
                   <div class="submit-btn w-100 d-flex">
